@@ -1,0 +1,1188 @@
+[
+  {
+    "create": {
+      "id": "95191141-ed47-4576-9786-66b667a48cd2",
+      "_type": "post",
+      "title": "တေႁဵတ်းႁိုဝ်ၸတ်းၵၢၼ် Startup Programs တီႈ Ubuntu Linux",
+      "body": [
+        {
+          "_type": "image",
+          "asset": { "_ref": "9950cb5ab84a4c20b4803171f4094bed" }
+        },
+        {
+          "_key": "026fc837-ca99-44ba-83d8-cf16a5ab2788",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "541c3368-324e-4de0-bcf2-5a6bbeae2408"
+            }
+          ]
+        },
+        {
+          "_key": "82150b6e-d126-41aa-88a1-f4de6fcb4368",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၽွင်းမိူဝ်ႈ ၸဝ်ႈၵဝ်ႇ ၶဝ်ႈ Sign in ၸူး ၶွမ်း Linux ၸဝ်ႈၵဝ်ၼၼ်ႉ ဢႅပ်ႇပလီႇၵေးသျိၼ်းၸိူဝ်း တႄႇႁဵတ်းၵႂႃႇႁင်းၶဝ်ၼၼ်ႉ မီးဝႆႉတင်းၼမ်ယဝ်ႉ။ ၸဝ်ႈၵဝ်ႇ ၵေႃႈ လႅပ်ႈတေဢဝ် ပရူဝ်ႇၶႅမ်ႇ ဢၼ်ၸဝ်ႈၵဝ်ႇ သူင်ၸႂ်ႉၼၼ်ႉ သႂ်ႇ ႁႂ်ႈပိုတ်ႇၸွမ်း ၽွင်းတႄႇၶဝ်ႈ Sign in ၼၼ်ႉ။ ဢၼ်ၼႆႉတႄႉ ပဵၼ်တွၼ်ႈတႃႇ ၵုမ်းၵမ် ဢူးပုၼ်းတု ၽွင်းမိူဝ်ႈၸဝ်ႈၵဝ်ႇ ၶဝ်ႈ Sign in ၼၼ်ႉယဝ်ႉ။",
+              "_key": "4c582a59-d9cf-4559-98b0-fe406bec1c4c"
+            }
+          ]
+        },
+        {
+          "_key": "048f0288-1f96-4686-a417-ad6bc9fec91e",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "4ea079d7-1100-4773-abe9-33c5cb280a09"
+            }
+          ]
+        },
+        {
+          "_key": "7b19560f-e373-452f-8599-5e4ee1103f15",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ႁဝ်းၶႃႈ ၸႂ်ႉဢၼ်ၼႆႉ ၵႃႈတီႈၼိူဝ် Ubuntu 20.04 LTS ဢိၵ်ႇတင်း ၼႃႈၶွမ်း GNOME ဢၼ်ၵိုၵ်းမႃးၼင်ႇ ပိူင်ၵႅဝ်ႈမၼ်းၼၼ်ႉယဝ်ႉ။ ၸၼ်ႉႁဵတ်းမၼ်းၸိူဝ်းၼႆႉတႄႉ မၼ်းတေမိူၼ်ၼင်ႇ Linux distribution တၢင်ႇၸိူဝ်း ဢိၵ်ႇတင်း ၼႃႈၶွမ်း GNOME ယူႇ၊ ၵူၺ်းၵႃႈ ၸဝ်ႈၵဝ်ႇ လႅပ်ႈတေလူဝ်ႇၶႂ်ႈၸႂ်ႉ ၶိူင်ႈ configuration ဢၼ်ပႅၵ်ႇပိူင်ႈၵၼ်တင်း သိူင်ႇဝႅတ်ႉလွမ်ႉၼႃႈၶွမ်းတၢင်ႇၸိူဝ်းၼၼ်ႉယူႇ။",
+              "_key": "57379732-c8b9-4672-a223-9c45c055242b"
+            }
+          ]
+        },
+        {
+          "_key": "e5c483e9-2cfc-4d54-aa41-ef2d57af61a6",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "c35249bc-5a91-49f0-8cf1-b6e2cc254ac8"
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "markDefs": [],
+          "style": "h2",
+          "_key": "7bdd88f6-a809-44df-bc49-d0b4562b7bb4",
+          "id": "7bdd88f6-a809-44df-bc49-d0b4562b7bb4",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တေႁဵတ်းႁိုဝ်ပိုတ်ႇ Startup Manager ႁင်း GNOME",
+              "_key": "66f8ac78-c4eb-45e5-a58b-21a146fd8241"
+            }
+          ]
+        },
+        {
+          "_key": "544d119f-c7f1-4e75-a3ae-4dd20a726822",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "967467a4-1bec-4f4d-a90b-757cc3a5056c"
+            }
+          ]
+        },
+        {
+          "_key": "874b2989-52f5-41d2-ba52-2618dd85bd39",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တွၼ်ႈတႃႇပိုတ်ႇ startup manager ၼၼ်ႉ ၼဵၵ်းပၼ်တီႈၼဵၼ် \"Show Applications\" ဢၼ်မီးတီႈ dash ၵႃႈတီႈ ၸဵင်ႇသၢႆႉၽၢႆႇတႂ်ႈ ၼႃႈၸေႃးၶွမ်းၼၼ်ႉ။ ၶူၼ်ႉႁႃ သေ ပိုတ်ႇပၼ် ၶိူင်ႈ \"Startup Applications\" ၼၼ်ႉလႄႈ။",
+              "_key": "1e90b972-9183-4d09-b66a-93cd68dcdb32"
+            }
+          ]
+        },
+        {
+          "_key": "9ddd6bd6-b887-4b30-a121-4e32a3a243c5",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "897815a6-6e0a-421a-b3b8-2b21bffd5005"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "df84177253ce46128ccf860a524bf9a2" }
+        },
+        {
+          "_key": "a24010c4-0135-440a-957d-4abf61b17661",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "23d5c30f-e60a-499c-8edd-25486dd48aad"
+            }
+          ]
+        },
+        {
+          "_key": "bd65a648-9916-46ef-b811-cbbaf23fac02",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၸဝ်ႈၵဝ်ႇၸၢင်ႈ ၼဵၵ်း Alt+F2 ပိုတ်ႇ Command dialog သေၵေႃႈ ၸႂ်ႉ command ၸွမ်းၼင်ႇ ၽၢႆႇတႂ်ႈၼႆႉလႆႈယူႇ:",
+              "_key": "09f626db-3cd8-4ddb-8478-29f06ba4cf5d"
+            }
+          ]
+        },
+        {
+          "_key": "d57ff8b6-3963-4db3-90f8-ef30c96c6ed0",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "6d066406-3fcb-4ed7-8ede-b572c3f92d16"
+            }
+          ]
+        },
+        { "_type": "code", "text": "gnome-session-properties " },
+        {
+          "_key": "f8cea0dd-6445-4a50-b40f-15d5f7aa68ac",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "9f69c9bc-ecef-43c3-894a-ef8578582053"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "315f116da03046448bd6827c4c9a1d33" }
+        },
+        {
+          "_key": "07591405-53a4-4f29-b659-74fa2e5ab3bf",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "09356ed4-cf80-471a-a39b-3d0685db9ae7"
+            }
+          ]
+        },
+        {
+          "_key": "68550182-4e25-4475-a2b0-06d945636e2b",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "သင်ၸိူဝ်ႉဝႃႈ ယွၼ်ႉသေလွင်ႈသေတၢင်းလႄႈ ၶိူင်ႈ Startup Tools ၼၼ်ႉ ဢမ်ႇဢွၵ်ႇမႃးတီႈ သဵၼ်ႈၵၢၼ် application ၸဝ်ႈၵဝ်ႇၼၼ်ႉၼႆၸိုင် ပိုတ်ႇ Terminal window သေၵေႃႈ ၸႂ်ႉ command ၼင်ႇၽၢႆႇတႂ်ႈၼႆႉသေ ပိုတ်ႇလႆႈယူႇ။",
+              "_key": "f4609d7e-4bf3-4a91-99f6-13bd34052248"
+            }
+          ]
+        },
+        {
+          "_key": "a03cc2df-525b-4d02-9dd4-7ba3ccc4c79d",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "763130cb-1efe-4e95-8d2b-119e771cfd83"
+            }
+          ]
+        },
+        {
+          "_type": "code",
+          "text": "sudo apt install gnome-startup-applications "
+        },
+        {
+          "_key": "e3c88e3a-cce5-473b-9163-75d31f3dd46c",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "e874197b-4104-4007-9732-38eb93db2258"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "8c0fc503d87149ee9a2e889252b32981" }
+        },
+        {
+          "_key": "0def8c81-2651-4897-a215-7d9778cd392e",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "0655e25e-05b7-417e-b2b5-9fdf798b1169"
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "markDefs": [],
+          "style": "h2",
+          "_key": "1d81f03a-64d9-42ab-9396-441532dea416",
+          "id": "1d81f03a-64d9-42ab-9396-441532dea416",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "5a456742-ecb1-43ca-bda8-b6a0fe605422"
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "markDefs": [],
+          "style": "h2",
+          "_key": "f5454ffd-696a-479c-a3fd-6284c11783d9",
+          "id": "f5454ffd-696a-479c-a3fd-6284c11783d9",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တေႁဵတ်းႁိုဝ်ၵိုတ်းပႅတ်ႈ Programs ၸိူဝ်းဢၼ်တႄႇပိုတ် ႁင်းၵူၺ်းမၼ်း တီႈ Ubuntu",
+              "_key": "9cf1bf81-e138-49c5-85af-624428c1e0f8"
+            }
+          ]
+        },
+        {
+          "_key": "e20af718-1c15-4c33-98b9-eae713f2343e",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "edd896ed-4c3d-4b44-afef-5cd63be8f354"
+            }
+          ]
+        },
+        {
+          "_key": "b6c6a2c5-d126-4cf8-a78b-d679d5f1bdf9",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ဢၼ်ပဵၼ် Startup Applications Preferences window ၼၼ်ႉ တေပိုတ်ႇမႃး။ ၸဝ်ႈၵဝ်ႇတေလႆႈႁၼ် သဵၼ်ႈမၢႆ ပရူဝ်ႇၶႅမ်ႇ ဢၼ် တႄႇပိုတ်ႇႁင်းမၼ်း ၽွင်းမိူဝ်ႈၸဝ်ႈၵဝ်ႇ ၶဝ်ႈ Sign in ၸူးတီႈ ၶွမ်းၵိုၵ်းႁၢင်ႈၼၼ်ႉ။ Application ၼိုင်ႈဢၼ်ၼႆႉ မၼ်းမီးၸိုဝ်ႈ၊ ၵၢၼ်လိူၵ်ႈသၢင်ႈ လႄႈ ၶေႃႈသပ်းလႅင်း။",
+              "_key": "aa49f569-aef8-4995-ad8d-d5d3f540346d"
+            }
+          ]
+        },
+        {
+          "_key": "854ea0f3-7994-416a-9722-c6d021a4f0e4",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "61a58364-0bbe-4f63-ad86-5d95c59ba48a"
+            }
+          ]
+        },
+        {
+          "_key": "7706179d-88c7-4837-a568-918392dddefd",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တွၼ်ႈတႃႇၵိုတ်းပႅတ်ႈ ပရူဝ်ႇၶႅမ်ႇ ဢၼ်တႄႇပိုတ်ႇႁင်းမၼ်းၼၼ်ႉၼႆ ၵူၺ်းလူဝ်ႇ လူတ်းပႅတ်ႈ မၢႆႇမႅၼ်ႈ တီႈ checkbox ဢၼ်မီးတီႈ ၽၢႆႇၶႂႃ ပရူဝ်ႇၶႅမ်ႇၼၼ်ႉ။ ၸိူဝ်းပဵၼ် ပရူဝ်ႇၶႅမ်ႇ ဢၼ်လူတ်းပႅတ်ႈ မၢႆႇမႅၼ်ႈၼၼ်ႉ မၼ်းတေဢမ်ႇတႄႇပိုတ်ႇ တီႈ မိူဝ်ႈတႄႇၶဝ်ႈၶွမ်းၼၼ်ႉယဝ်ႉ။",
+              "_key": "d6c93652-92ba-4140-8853-095f375a7a96"
+            }
+          ]
+        },
+        {
+          "_key": "074cd1e6-8b3d-495d-a6b8-23e545cfc4f3",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "42464a4e-27c7-4ff4-aad2-f7c4e6bebc29"
+            }
+          ]
+        },
+        {
+          "_key": "bde89ae5-c4ca-434f-9d2d-3dd4964fb0de",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၸဝ်ႈၵဝ်ႇၸၢင်ႈၼဵၵ်းၶလိၵ်ႉ သေ လိူၵ်ႈဢဝ် ပရူဝ်ႇၶႅမ်ႇ လႄႈ ၼဵၵ်း \"Remove\" သေၵေႃႈ ထွၼ်ပႅၼ်ႈ ၵႃႈတီႈၼႂ်း သဵၼ်ႈမၢႆ၊ ၵူၺ်းၵႃႈဝႃႈ လူတ်းပႅတ်ႈ မၢႆမႅၼ်ႈၼၼ်ႉၵေႃႈ မၼ်းမိူၼ်ၵၼ် သေ မၼ်းတေ ႁဵတ်းႁႂ်ႈ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈၶိုၼ်းလိူၵ်ႈဢဝ်လႆႈ ငၢႆႈငၢႆႈ ၽွင်းမိူဝ်ၸဝ်ႈၵဝ်ႇ ၶႂ်ႈၶိုၼ်းၸႂ် တႃႇႁႂ်ႈတႄႇပိုတ်ႇ မိူဝ်ႈၽွင်းၶဝ်ႈၸူးၶွမ်းၼၼ်ႉ။",
+              "_key": "325f8b81-dff2-4eb9-85a2-035196ae7087"
+            }
+          ]
+        },
+        {
+          "_key": "124b12bf-f245-4e3f-9d6b-22d4edd183df",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "76ce2305-d1ae-41f0-8b9c-5d70b8aeca35"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "b6f64fc8510a42d7806a78f9bc846bec" }
+        },
+        {
+          "_key": "178ebccc-3469-4c4f-a856-19e4d559cbae",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "ff161e00-0cad-4b3c-a8c0-36ed46c33741"
+            }
+          ]
+        },
+        {
+          "_key": "2633bed8-7dba-42d2-8a0c-41c7ccc57e57",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "သင်ၸိူဝ်ႉဝႃႈ ၸဝ်ႈၵဝ်ႇဢမ်ႇၼႄႉၼွၼ်း ဝႃႈ ပရူဝ်ႇၶႅမ်ႇဢၼ်လႂ်ပဵၼ်သင်ဢၼ်ဝႃႈၼၼ်ႉ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈသွၵ်ႈႁႃၸိုဝ်ႈမၼ်းလႆႈ ၵႃႈတီႈၼိူဝ်ဝႅပ်ႉ။ ပိူင်ယၢင်ႇမၼ်း သင်ၸိူဝ်ႉဝႃႈ ၸဝ်ႈၵဝ်ႇ ၶူၼ်ႉႁႃ im-launch ၸဝ်ႈၵဝ်ႇတေလႆႈႁၼ် မၼ်းပဵၼ် command ဢၼ်တေပိုတ်ႇ input methods ဢၼ်ၸဝ်ႈၵဝ်ႇ လူဝ်ႇၼၼ်ႉယဝ်ႉ။",
+              "_key": "321ae2c1-8385-41f8-8642-52f4d948cf6e"
+            }
+          ]
+        },
+        {
+          "_key": "9c3b2578-48b0-4ff7-abef-adddacb7692c",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "5d5b450e-09a2-4f84-82d1-7f101e6bf26c"
+            }
+          ]
+        },
+        {
+          "_key": "3ff63dc2-faf5-4dd4-a77b-0ef9f828b760",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈလိူၵ်ႈဢဝ် ပရူဝ်ႇၶႅမ်ႇ သေ ၼဵၵ်းပၼ်တီႈ \"Edit\" သေ တူၺ်း command ဢၼ်တဵမ်တူၼ်ႈ တွၼ်ႈတႃႇ ပိုတ်ႇ ၽွင်းၸဝ်ႈၵဝ်ႇ ၶဝ်ႈ Sign in ၼၼ်ႉ။",
+              "_key": "52eccfea-2b7b-46f9-933c-3a5be137c200"
+            }
+          ]
+        },
+        {
+          "_key": "d22908f4-82dd-4f17-a420-93fef9b864eb",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "a1fcf50e-9312-400d-bac2-494702e4ca94"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "6240a436b2ed48d49a75cc26aaf0cab6" }
+        },
+        {
+          "_key": "adcc54a9-ef6f-403e-89a8-5b40008cfd20",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "280bb877-6db0-4165-b22f-66df93afb844"
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "markDefs": [],
+          "style": "h2",
+          "_key": "d44c5d55-c2d2-4eb8-ad79-c640c59682fc",
+          "id": "d44c5d55-c2d2-4eb8-ad79-c640c59682fc",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တေႁဵတ်းႁိုဝ် ထႅမ်သႂ်ႇ Startup Programs ႁင်းၸဝ်ႈၵဝ်ႇ တီႈ Ubuntu",
+              "_key": "b8a2987d-7de2-4c58-9000-4a9450a39b3d"
+            }
+          ]
+        },
+        {
+          "_key": "b92630bf-a8b3-492c-8245-ade085d57d35",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "0c78fa5e-995e-4775-960b-d9ba9335f1a7"
+            }
+          ]
+        },
+        {
+          "_key": "4c97f5c7-0118-42d6-a441-f9ffd9e0ed12",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တွၼ်ႈတႃႇ ထႅမ်သႂ်ႇ startup program ၼႆ ၸဝ်ႈၵဝ်ႇ တေၶႂ်ႈႁူႉ သၢႆတၢင်းမၼ်း တဵမ်တဵမ်ထူၼ်ႈထူၼ်ႈယူႇ။ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈၸႂ်ႉ wich command တီႈၼႂ်း Terminal window ၼၼ်ႉ။",
+              "_key": "b991e1cf-3353-47a9-95ca-11715a66c729"
+            }
+          ]
+        },
+        {
+          "_key": "e7e6bb66-4ad0-4720-91c3-b500098d1dd5",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "70103af0-ad23-42e1-a782-f8d1919478d5"
+            }
+          ]
+        },
+        {
+          "_key": "72030434-b841-4c5e-b2e9-0709319eaf7a",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ပိူင်ယၢင်ႇမၼ်း ဝႃႈ ႁဝ်းတေၶႂ်ႈဢဝ် Firefox တႄႇပိုတ်ႇၼႆလႄႈ။ ဢွၼ်တၢင်းသုတ်း - ပိုတ်ႇ Terminal window သေ ၸႂ်ႉ command ၼင်ႇၽၢႆႇတႂ်ႈၼႆႉ :",
+              "_key": "672e1629-542d-47ec-b35f-56e4a185a39e"
+            }
+          ]
+        },
+        {
+          "_key": "6feeb5b4-b99b-45aa-8175-0ba6b124f28e",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "a38663a2-1875-438b-91e7-821d3f5bebb6"
+            }
+          ]
+        },
+        { "_type": "code", "text": "which firefox " },
+        {
+          "_key": "763b0ae0-63be-4b6d-9d09-c5946768efc8",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "afad9afb-07ce-49b6-9d29-ac5b46a9dfd9"
+            }
+          ]
+        },
+        {
+          "_key": "842b1658-803e-4cf9-aa11-01dfda59e676",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ပေႃးၼၼ် မၼ်းတေမွၵ်ႇလၢတ်ႈၼႄဝႃႈ firefox binary ၼႆႉ မၼ်းတေမီးဝႆႉတီႈ သၢႆတၢင်း ",
+              "_key": "b83aec3d-0a31-48fe-aecd-121bf7d4dced"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "/usr/bin/firefox",
+              "_key": "bf0f77a9-b64d-490b-abf1-a39538751ac6"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": " ။ ဢၼ်ၼႆႉ မၼ်းပဵၼ် သၢႆတၢင်း ဢၼ်ၸဝ်ႈၵဝ်ႇ တေလႆႈ ပေႃႉသႂ်ႇပၼ်တီႈၼႂ်း လွၵ်း Command တီႈၼႂ်း Add Startup Program window ၼၼ်ႉယဝ်ႉ။",
+              "_key": "265f0a57-4c3c-4dda-a26d-9a0aad66f84b"
+            }
+          ]
+        },
+        {
+          "_key": "8ebbd99a-e991-4977-b37b-45e6e286ce36",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "0bc620e3-ae30-44a9-80dd-4fe148e9b1fb"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "ca69b4a57bb44e30a2ee34a5cf8d6bda" }
+        },
+        {
+          "_key": "6e67c82a-ef1a-49d3-bd95-f5967c651a34",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "d59ed359-cacc-4ef0-94fe-b4491bc6bbfb"
+            }
+          ]
+        },
+        {
+          "_key": "ed2c9353-3ef9-4416-a673-95498f64159b",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၼဵၵ်းၶလိၵ်ႉတီႈ ၼဵၼ် \"Add\" ဢၼ်မီးတီးၼႂ်း Startup Applications Preferences window ၼၼ်ႉသေ ပေႃႉသႂ်ႇပၼ် သၢႆတၢင်းတဵမ်ထူၼ်ႈ တီႈၼႂ်းလွၵ်း Command တွၼ်ႈတႃႇဢဝ် ပရူဝ်ႇၶႅမ်ႇ ဢၼ်ၸဝ်ႈၵဝ်ႇ ၶႂ်ႈပိုတ်ႇၼၼ်ႉ။ ၸဝ်ႈၵဝ်ႇ ထုၵ်ႇပေႃႉသႂ်ႇ ၸိုဝ်ႈ တွၼ်ႈတႃႇ ပရူဝ်ႇၶႅမ်ႇ လႄႈ လွင်ႈလိူၵ်ႈသၢင်၊ ၶေႃႈမၢႆတွင်း။ လွၵ်းတင်းသွင်ဢၼ်ၼႆႉ မၼ်းတေၼႄပၼ်တီႈၼႂ်း Startup Applications Preferences window ၵူၺ်း။",
+              "_key": "93854d50-669c-4c39-8b55-bb98db3b781c"
+            }
+          ]
+        },
+        {
+          "_key": "9dcf0961-a6d4-41e2-b4a6-cfe79f5e911d",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "88441430-2ca4-4515-918e-12f46f654aac"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "28d28784ada84982a9aa40e46b467b56" }
+        },
+        {
+          "_key": "3c5422a1-ddf7-4b5b-a2e8-d5a7829262d6",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "d580ea75-0dd6-49e1-bbf3-dcad268e365c"
+            }
+          ]
+        },
+        {
+          "_key": "0bd12a83-c154-4b3a-84cb-90a76254fe99",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၽွင်းမိူဝ်ႈၸဝ်ႈၵဝ်ႇ ယဝ်ႉတူဝ်ႈယဝ်ႉၼႆႉ ၼဵၵ်းပၼ်တီႈ \"Add\" ။ ၸဝ်ႈၵဝ်ႇ တေလႆႈႁၼ် ပရူဝ်ႇၶႅမ်ႇ Startup ဢၼ်ၸဝ်ႈၵဝ်ႇထႅမ်သႂ်ႇၼၼ်ႉ ၼႄဝႆႉပၼ်ယူႇယဝ်ႉ။ ပေႃးဝႃႈ မၼ်းတိုၵ်ႉမီး checkbox လႄႈ တိုၵ်ႉဢွၵ်ႇၼႄဝႆႉတီႈၼႂ်း သဵၼ်ႈမၢႆယူႇၼႆၸိုင် GNOME desktop ၼႆႉ မၼ်းတေပိုတ်ႇပၼ် ၵူႈၵမ်း ၽွင်းၸဝ်ႈၵဝ်ႇ ၶဝ်ႈ Sign in ၸူး Ubuntu ၼၼ်ႉ။",
+              "_key": "8947ce44-6941-4119-9f82-dec70d9cac95"
+            }
+          ]
+        },
+        {
+          "_key": "cb2e2929-8eea-4bc5-b3f2-784155900a6b",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "8d8ad75b-4e43-47fc-abf2-ef18e4de6494"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "a2f7d1a844374bcd82780d55555d7a50" }
+        },
+        {
+          "_key": "d98f263a-9ffc-419e-ace0-7f992cd7dc89",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "1b4a6f6b-4572-4d5a-859f-833a7a896cdb"
+            }
+          ]
+        },
+        {
+          "_key": "a565dc40-87af-4bb5-a906-8e2904dcf854",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Application တင်းၼမ် ၸိူဝ်းပိုတ်ႇ တီႈ startup ၼၼ်ႉ မၼ်းၶဝ်ႈပႃး ၵၢၼ်လိူၵ်ႈသၢင်ႈဢၼ်ၽင်မႃးၸွမ်း တွၼ်ႈတႃႇ လႅၵ်ႈလၢႆႈဢၼ်ၼႆႉၼၼ်ႉ။ ပိူင်ယၢင်ႇမၼ်း ၸဝ်ႈၵဝ်ႇၸႂ်ႉ ဝိၼ်းတူဝ်းၵၢၼ်လိူၵ်ႈသၢင်ႈ ဢၼ်ၼႆႉသေ ၸၢင်ႈၵိုတ်း Dropbox ၵႃႈတီႈ လွင်ႈတႄႇပိုတ်ႇႁင်းၵူၺ်း တီႈ Linux မိူၼ်ၼင်ႇ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈၸႂ်ႉလႆႈ တီႈၼိူဝ် Windows လႄႈ Mac ၼၼ်ႉ။",
+              "_key": "1b6e641f-5d52-4315-9d0f-3cdbf0615ad2"
+            }
+          ]
+        },
+        {
+          "_key": "40e460f9-6bb6-44b3-9c88-3fb4269df12a",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "89dffec8-2b53-4ceb-acb0-16125ce55828"
+            }
+          ]
+        },
+        {
+          "_key": "1adcad99-3c36-4c27-86a9-f38fa8ad7e68",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ပဵၼ်ႁိုဝ်ၵေႃႈလီ Startup Application Preferences tool ၼႆႉ မၼ်းတေႁဵတ်းႁႂ်ႈ ၸဝ်ႈၵဝ်ႇ တူၺ်းလႆႈ ၵူႈလွင်ႈလွင်ႈ ၸိူဝ်းဢၼ် ပိုတ်ႇႁင်းၵူၺ်းမၼ်း တီႈၶွမ်းၸဝ်ႈၵဝ်ႇ လႄႈ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈၵုမ်းၵမ်ၶဝ်လႆႈ တီႈ ဢွင်ႈလဵဝ်ၼၼ်ႉယဝ်ႉ။",
+              "_key": "dbee0864-f148-4064-a9ae-c77280ec275d"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "create": {
+      "id": "b0b6717a-ca61-40c6-9d6e-c87570024263",
+      "_type": "post",
+      "title": "ၸႂ်ႉ Command Prompt သေ တေႁဵတ်းႁိုဝ် ဢိုတ်းၶွမ်း တီႈ Windows 10",
+      "body": [
+        {
+          "_type": "image",
+          "asset": { "_ref": "2a6dc39be2414d83b2bd22ad05f6ace3" }
+        },
+        {
+          "_key": "27310df0-348f-45f0-b772-2714e338fd88",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "f3d9d504-e648-4dc0-a459-e04e7a62cee0"
+            }
+          ]
+        },
+        {
+          "_key": "a60fe1c4-7f63-4ff3-95b6-3886da38bdae",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "လွင်ႈၸႂ်ႉ Command Prompt သေ ဢိုတ်း ၶွမ်း Windows 10 ၼႆႉ မၼ်းၵမ်ႉထႅမ်ဝႆႉပၼ် ၵၢၼ်လိူၵ်ႈသၢင်ႈတင်းၼမ်သေ မၼ်းတိူဝ်းငၢႆႈငႅမ်ႈလိူဝ်သေ လွင်ႈၸႂ်ႉ ၵၢၼ်လိူၵ်ႈသၢင်ႈ Shutdown ဢၼ်မီးတီႈ သဵၼ်ႈၵၢၼ် Start ဢမ်ႇၼၼ် ၼဵၼ် Power ဢၼ်မီးတီႈ ၶွမ်းၼၼ်ႉယဝ်ႉ။ တီႈၼႆႈၼႆႉ တေၼႄပၼ် လွင်ႈဝႃႈ မၼ်းႁဵတ်းလႆႈ ၸိူင်ႉႁိုဝ်ဢၼ်ဝႃႈၼၼ်ႉ",
+              "_key": "8d426361-6d1e-47ac-aeef-bbc7e14fe0a4"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "။",
+              "_key": "7650eecb-2553-4e59-9305-e8787e181f6f"
+            }
+          ]
+        },
+        {
+          "_key": "037a0cf6-5a5c-4fbf-b872-3f555bab4365",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "0f565aa0-396a-4951-a9c7-4cca2b35549a"
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "markDefs": [],
+          "style": "h2",
+          "_key": "80a9b930-8d08-4941-acab-fe7e355e99a0",
+          "id": "80a9b930-8d08-4941-acab-fe7e355e99a0",
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "Shut Down Your PC Using the Command Prompt",
+              "_key": "a63228d7-97ac-42dc-8af0-c8871e8afe48"
+            }
+          ]
+        },
+        {
+          "_key": "59e6e743-5386-432d-ac21-df91b08b3046",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "0cd62195-9ec6-4231-ad01-f025e8255613"
+            }
+          ]
+        },
+        {
+          "_key": "ce4f8729-44e3-49c8-8848-26025a632ea6",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၼဵၵ်းပၼ် Windows + R တေ တႄႇပိုတ်ႇပၼ် ဝိၼ်းတူဝ်း Run ၼၼ်ႉလႄႈ။ ၵႃႈတီႈၼၼ်ႈၼၼ်ႉ ပေႃႉသႂ်ႇ \"cmd\" တီႈၼႂ်း လွၵ်းလိၵ်ႈၼၼ်ႉသေ လိူၵ်ႈပၼ် ၼဵၼ် \"OK\" လႄႈ။",
+              "_key": "fd12aa81-9aa0-40ea-bc4c-5e5e4da78f35"
+            }
+          ]
+        },
+        {
+          "_key": "c8b695ef-dbe3-4bf2-b67b-418a775e41ad",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "de162644-f16a-429b-982b-ce3829de47d1"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "4db342c51d374d69b517d46727fb4679" }
+        },
+        {
+          "_key": "51568d13-e5d0-420e-a327-71bc625a576a",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "ba6f2e7b-e29c-4515-b36e-58ed08595777"
+            }
+          ]
+        },
+        {
+          "_key": "e752a6ce-e4d8-4198-9e04-a5265fe7d4e4",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ပေႃးၼၼ် Command Prompt တေပိုတ်ႇမႃးသေ တီႈၼၼ်ႈၼၼ်ႉ ပေႃႉသႂ်ႇပၼ် shutdown /s",
+              "_key": "40f9056e-aecd-42fa-956e-f74dae01a5da"
+            }
+          ]
+        },
+        {
+          "_key": "a54e5fff-8494-4165-a5d0-eb40b73dc7dd",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "79ed4d53-082a-4237-a402-460ed2920f4f"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "ae9fcf3d93584d3dad3a4a3d2973d5b5" }
+        },
+        {
+          "_key": "cbc8f478-d06a-44d5-a489-76107687db4c",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "64190cde-82ab-446a-856e-09e68a99d114"
+            }
+          ]
+        },
+        {
+          "_key": "30e9ef8a-e1f1-4825-aff0-7f244db73fea",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ပေႃးၸဝ်ႈၵဝ်ႇ ၼဵၵ်းပၼ် Enter ၼႆ လိၵ်ႈပွတ်းဢွၼ်ႇ တေဢွၵ်ႇမႃးၼႄပၼ် ႁႂ်ႈၸဝ်ႈၵဝ်ႇ ႁူႉၸွမ်းဝႃႈ Windows ၼႆႉ တေဢိုတ်းပႅတ်ႈ ၼႂ်းၶၢဝ်းတၢင်း ဢမ်ႇလိူဝ် ၼိုင်ႈမိတ်ႉၼိတ်ႉၼႆယဝ်ႉ။ ပေႃးၸဝ်ႈၵဝ်ႇ လႆႈၸႂ်ၼႆ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈလိူၵ်ႈပၼ် ၼဵၼ် \"Close\" ၊ ၵူၺ်းၵႃႈဝႃႈ ဢၼ်ၼႆႉ မၼ်းတေ ဢမ်ႇၵႂႃႇယႃႉၵဝ်း လွင်ႈၵၢၼ်တေဢိုတ်းၶွမ်းၼၼ်ႉၼင်ႇၵဝ်ႇ။",
+              "_key": "72724655-3d96-43fb-8a37-c3123a620fb6"
+            }
+          ]
+        },
+        {
+          "_key": "06eec3a2-ec08-4bf0-b270-4896a0a0ade5",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "8fee25ef-c791-4e29-87e7-ea903dc21558"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "8b7cc3f60f5a434fb75f8ab00d1c9580" }
+        },
+        {
+          "_key": "bf029268-3c3f-4855-bf76-43273db25c54",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "1f4ad2ed-12cc-4b08-b5da-c4686f65f2f8"
+            }
+          ]
+        },
+        {
+          "_key": "5963e69f-86f1-4e31-a55e-3daa0b5e7c64",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တွၼ်ႈတႃႇႁဵတ်းတႄႉ မီးၼႆႉၵူၺ်းၼင်ႇၵဝ်ႇ။ ၼႂ်းၶၢဝ်းတၢင်း ၼိုင်ႈမိတ်ႉၼိတ်ႉၼၼ်ႉ ၶွမ်းၸဝ်ႈၵဝ်ႇ တေဢိုတ်းၵႂႃႇယူႇ။ ယဝ်ႉၵေႃႈ ပေႃးၸဝ်ႈၵဝ်ႇ တိူဝ်းလႆႈၸႂ်ၼႆ မၼ်းမီး လွၵ်းလၢႆး ဢၼ်ၸႂ်ႉ Command Prompt သေ တႃႇ တႄႇၶိုၼ်းၶွမ်း။",
+              "_key": "8573072f-d6ef-4da1-9a36-252e3728b104"
+            }
+          ]
+        },
+        {
+          "_key": "1e721565-c292-4e9c-93b3-54c196cabe7b",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "7a49d359-58aa-46a7-999e-27a53cb86885"
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "markDefs": [],
+          "style": "h2",
+          "_key": "d6f5373e-8044-41be-9cc2-724d8e3042e7",
+          "id": "d6f5373e-8044-41be-9cc2-724d8e3042e7",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Restart Your PC Using the Command Prompt",
+              "_key": "8d0537d5-340e-4ff4-9070-4809489b8337"
+            }
+          ]
+        },
+        {
+          "_key": "ba3b3eb0-de76-459e-86cf-ff8a15a987a4",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "fbfe8150-a0a7-4335-b03e-71ab5858e0dd"
+            }
+          ]
+        },
+        {
+          "_key": "74dee461-1458-4921-9c1b-5532fd386317",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ၵၢၼ်ဢၼ်ၼႆႉတႄႉ မၼ်းပဵၼ် လွင်ႈ တႄႇၶိုၼ်း ၶွမ်းၸဝ်ႈၵဝ်ႇ ဢၼ်ၶႂ်ႈငၢႆးမိူၼ်ၵၼ်တင်း လွင်ႈဢိုတ်းၶွမ်းၸဝ်ႈၵဝ်ႇၼၼ်ႉယူႇ။ မၼ်းတေလႆႈၸႂ်ႉ Command ပိူင်ႈပႅၵ်ႇဢိတ်းဢွတ်း ၵႃႈတီႈၼႂ်း Command Prompt ၼၼ်ႉယဝ်ႉ။ ၼဵၵ်းပၼ် Windows + R သေ ပိုတ်ႇ ဝိၼ်းတူဝ်း Run သေ ပေႃႉသႂ်ႇ \"cmd\" ယဝ်ႉ ၼဵၵ်းပၼ် ၼဵၼ် \"OK\" သေ ပိုတ်ႇ Command Prompt လႄႈ။ တီႈၼႂ်း Command Prompt ၼၼ်ႉ ပေႃႉသႂ်ႇပၼ် shutdown /r ၼႆလႄႈ။",
+              "_key": "d20f29a1-b0bd-4cd3-b61a-a3382269ee57"
+            }
+          ]
+        },
+        {
+          "_key": "a73b7b51-7659-4f39-9cc6-b62083922f45",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "5b1f0b90-08e5-4f52-b36d-d37c0b25731d"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "64b8be8532c74ae6bf980b279c4feb45" }
+        },
+        {
+          "_key": "e7fc6ef4-8a7c-4403-a5cb-8bbd3e8b5aca",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "b75442d5-b3f1-4771-8f24-59743d56430d"
+            }
+          ]
+        },
+        {
+          "_key": "178a8f9a-586d-4746-bb17-0347d7658c38",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "တွၼ်ႈတႃႇႁဵတ်းၵၢၼ်ၼၼ်ႉၼႆႉ ၼဵၵ်းပၼ် ၼဵၼ် Enter လႄႈ။ ပေႃးၼၼ် ၼႂ်းၶၢဝ်းတၢင်း မိတ်ႉၼိတ်ႉၼႆႉ ၶွမ်းၸဝ်ႈၵဝ်ႇ တေတႄႇၶိုၼ်းယူႇယဝ်ႉ။",
+              "_key": "85021827-b2f1-478f-be18-093cc691b658"
+            }
+          ]
+        },
+        {
+          "_key": "ade70e8d-b618-46a1-9f0a-138017514905",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "ဢၼ်ၼႆႉၼႆႉ ပဵၼ် ၵၢၼ်လိူၵ်ႈသၢင်ႈပႅၵ်ႇၵၼ်သွင်ဢၼ် တွၼ်ႈတႃႇ ဢိုတ်းၶွမ်းလႄႈ တႄႇပိုတ်ႇၶွမ်း တီႈ ၶွမ်း Windows ၸဝ်ႈၵဝ်ႇ။ တွၼ်ႈတႃႇ ဢဝ်တူၺ်း သဵၼ်ႈမၢႆတဵမ်ထူၼ်ႈ ႁင်း ၵၢၼ်လိူၵ်ႈသၢင်ႈ လွင်ႈဢိုတ်းၶွမ်းၼၼၼ်ႉ ပေႃႉ shutdown /? သႂ်ႇတီႈၼႂ်း Command Prompt သေ ၼဵၵ်းပၼ် Enter လႄႈ။ ပေႃးၼၼ် ဢၼ်ပဵၼ်သဵၼ်ႈမၢႆ ၼဵၼ်လၢႆႈ လႄႈ လွင်ႈမၼ်းၼၼ်ႉ တေဢွၵ်ႇမႃးၼႄပၼ်ယူႇ။",
+              "_key": "94690021-d3cb-4f69-9e73-710caf7e3460"
+            }
+          ]
+        },
+        {
+          "_key": "5162728c-887e-4812-9360-5df99bd49757",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "4a5f1850-fdd4-479c-8173-8d4932ae3890"
+            }
+          ]
+        },
+        {
+          "_type": "image",
+          "asset": { "_ref": "398782c878bb4aeebb4ad77fb3761133" }
+        },
+        {
+          "_key": "1df2c5a3-0ab6-4a4f-a692-67bb2fa3280a",
+          "_type": "block",
+          "markDefs": [],
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "\n",
+              "_key": "86418d2d-2508-457b-85e4-494d040135f7"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

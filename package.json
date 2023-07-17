@@ -1,0 +1,27 @@
+{
+  "name": "deserializing-html-to-portable-text-demo",
+  "version": "1.0.0",
+  "description": "Minimal demo of how deserialization of HTML to Portable Text works in Node using JSDOM",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080",
+    "dev": "node src/index.js",
+    "build": "node src/submit_data.js"
+  },
+  "dependencies": {
+    "@sanity/block-tools": "0.140.9",
+    "@sanity/client": "^6.1.7",
+    "@sanity/code-input": "^4.1.1",
+    "@sanity/schema": "0.140.9",
+    "@sanity/uuid": "^3.0.2",
+    "dotenv": "^16.3.1",
+    "image-downloader": "^4.3.0",
+    "jsdom": "14.0.0",
+    "node-html-parser": "^6.1.5",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
